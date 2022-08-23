@@ -1,0 +1,11 @@
+strong {
+    color: blue;
+
+}
+
+.list li a {
+    background: rgb(204, 13, 221);
+    color: aliceblue;
+    height: 35px;
+    text-decoration:none ;
+}
