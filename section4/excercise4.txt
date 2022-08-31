@@ -1,0 +1,9 @@
+1.explain what the <style> tag is for
+2. create an <h1> tag and add color to the text
+3. add background color for <body>
+4. create a <h1> tag and add style border to it
+5. create a <h1> tag and add style height to it
+6. create a <h1> tag and add style width to it
+7. create 1 css file and add it to the head tag in the html file
+8. create 1 <h1> tag and add an id attribute combined with a css file that adds color to the tag
+9. create 4 <p> tags and add class attribute for 2 <p> tags combined with css file add color to it

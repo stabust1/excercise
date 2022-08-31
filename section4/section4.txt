@@ -1,0 +1,10 @@
+1. What is the <Style> tag used for?
+2. color: What is used for in <Style> tag?
+3. background-color: What is used for in <Style>?
+4. border : What is used for in <Style>
+5. height: What is used for in <Style>
+6. width : What is used for in <Style>
+7. How to import css files to website from external source?
+8.  What is the <hr> tag used for?
+9.  What is class attribute?
+10. What is id attribute?

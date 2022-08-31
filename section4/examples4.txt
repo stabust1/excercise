@@ -1,0 +1,51 @@
+1. The <style> tag is used as a container for CSS snippets. A web page can have multiple <style>  tags
+the <style> tag has two basic attributes: type, media
+- The type attribute is used to specify the content type placed inside the <style></style> tag pair,  example:
+<style type="text/css">
+   h1 {
+       color: blue;
+   }
+</style>
+
+2. The CSS color property sets the foreground color value of an element's text and text decorations, and also sets the current color value.
+Example :
+ h1 {color: #red;}
+
+3. The background-color property sets the background color of an element.
+Example : body {background-color: #red;}
+
+4. Set the style of the borders for different elements:
+example :
+h1 {
+  border: 5px solid red;
+}
+
+h2 {
+  border: 4px dotted blue;
+}
+
+div {
+  border: double;
+}
+
+5. The height property sets the height of an element.
+example :
+h1 {
+  height: 50px;
+
+6. The width property sets the width of an element.
+example :
+h1 {
+  width: auto;
+
+7. We can add more external files css with tag element
+ <link rel="stylesheet" type="text/css" href="your css file"> and it must be in the head tag
+
+8. The id attribute is used to name the element, this name must be unique, there is no case where the id names of the elements are duplicated (if comparing an element in a CMND like a Vietnamese citizen, then The id name is the same as the ID number, it is used to identify the element's identity)
+
+9. The function of the class attribute is similar to the id attribute, which is used to name the element. However, the class name is different from the id name in that with the same class name, we can use it to set many different elements.
+
+
+
+
+
