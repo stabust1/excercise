@@ -1,0 +1,19 @@
+.p1 {
+    float: left;
+    padding: 10px;
+    
+  }
+  
+  .p2 {
+    padding: 10px;
+  }
+  
+  .p3 {
+    float: left;
+    padding: 10px;  
+  }
+  
+  .p4 {
+    padding: 10px;
+    clear: left;
+  }

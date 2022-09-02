@@ -1,0 +1,40 @@
+1. The <title> tag defines the title of the document. The title must be text-only, and it is shown in the browser's title bar or in the page tab
+The <title> tag is required in HTML documents
+it is placed in the <head> tag
+
+2. To do this you must have an icon. you can go to a website favicon.cc to create an icon. Then add it to the folder where the CSS is located (you create a separate CSS folder and add the icon) and add it with code
+example :
+
+3. The CSS margin properties are used to create space around elements, outside of any defined borders.
+With CSS, you have full control over the margins. There are properties for setting the margin for each side of an element (top, right, bottom, and left)
+
+4. The CSS padding properties are used to generate space around an element's content, inside of any defined borders.
+With CSS, you have full control over the padding. There are properties for setting the padding for each side of an element (top, right, bottom, and left).
+
+
+5. The position property specifies the type of positioning method used for an element (static, relative, absolute, fixed, or sticky)
+
+6. The font-family property specifies the font for an element.
+The font-family property can hold several font names as a "fallback" system. If the browser does not support the first font, it tries the next font
+
+7. The float property is used for positioning and formatting content e.g. let an image float left to the text in a container
+- left - The element floats to the left of its container
+- right - The element floats to the right of its container
+- none - The element does not float (will be displayed just where it occurs in the text). This is default
+ -inherit - The element inherits the float value of its parent
+
+8. When we use the float property, and we want the next element below (not on right or left), we will have to use the clear property.
+The clear property specifies what should happen with the element that is next to a floating element.
+The clear property can have one of the following values:
+
+none - The element is not pushed below left or right floated elements. This is default
+left - The element is pushed below left floated elements
+right - The element is pushed below right floated elements
+both - The element is pushed below both left and right floated elements
+inherit - The element inherits the clear value from its parent
+
+9. The display property specifies the display behavior (the type of rendering box) of an element.
+
+10. The <span> tag is an inline container used to mark up a part of a text, or a part of a document.
+The <span> tag is easily styled by CSS or manipulated with JavaScript using the class or id attribute.
+The <span> tag is much like the <div> element, but <div> is a block-level element and <span> is an inline element.
