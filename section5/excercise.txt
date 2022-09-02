@@ -1,0 +1,10 @@
+1. create a page and add a title on the title bar of the site
+2. add icon to title bar
+3. create a content in html combined with css that contains margin property
+4. create a content in html combined with css that contains padding attribute
+5. create a content in html combined with css that contains the position . attribute
+6. Let's create a content in html combined with css that contains font-family . attribute
+7. Let's create a content in html combined with css that contains the Float . attribute
+8. please create a content in html combined with css that contains the Clear attribute
+9. Let's create a content in html combined with css that contains Display property
+10. Create a p tag with the content: a program. use the <span> tag in combination with CSS to add color to the text "pro" 
