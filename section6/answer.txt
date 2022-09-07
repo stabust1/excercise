@@ -1,0 +1,39 @@
+1. 
+- Bootstrap is a free front-end framework for faster and easier web development
+- Bootstrap includes HTML and CSS based design templates for typography, forms, buttons, tables, navigation, modals, image carousels and many other, as well as optional JavaScript plugins
+- Bootstrap also gives you the ability to easily create responsive designs
+
+2. first we will go to web page getbootstrap.com we go to the introduction to get the link of Bootstrap and copy. Then I will go to the html file and paste it into the <head>  tag
+
+3.
+- Bootstrap Grid is one of the grid systems that includes multiple rows, columns... as well as the number of columns per line is always 12.
+- The size is in the grid in columns, and each column takes up a certain percentage of the size of the layout
+The Bootstrap 4 grid system has five classes:
+xs (for phones - screens less than 768px wide)
+sm (for tablets - screens equal to or greater than 768px wide)
+md (for small laptops - screens equal to or greater than 992px wide)
+lg (for laptops and desktops - screens equal to or greater than 1200px wide)
+
+4. Containers are used to pad the content inside of them, and there are two container classes available
+- The .container class provides a responsive fixed width container
+- The .container-fluid class provides a full width container, spanning the entire width of the viewport
+
+5. Bootstrap provides different button styles. To achieve button styles, Bootstrap has the following classes
+example :
+
+6. A navigation bar is a navigation header that is placed at the top of the page. With Bootstrap, a navigation bar can extend or collapse, depending on the screen size.
+A standard navigation bar is created with <nav class="navbar navbar-default">.
+
+7. Is a library of fonts containing symbols commonly used in websites  Font Awesome. This symbol font is displayed as icons. and these icons are usually placed in website layouts
+
+8. To use the Font Awesome icons, add the following line inside the <head> section of your HTML page:
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+Note: No downloading or installation is required!
+
+You place Font Awesome icons by using the prefix fa and the icon's name.
+
+9. We will go to the web page getbootstrap.com and go to the icons section, we will copy the icons code and add it to the website layouts
+
+10. We will go to the web page getbootstrap.com and go to the icons section, we will copy the icons code and add it to the <button> tag
+
+ 
