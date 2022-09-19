@@ -1,0 +1,23 @@
+div.a {
+    width: 150px;
+    height: 80px;
+    background-color: yellow;
+    -ms-transform: rotate(20deg);
+    transform: rotate(20deg);
+  }
+  
+  div.b {
+    width: 150px;
+    height: 80px;
+    background-color: yellow;
+    -ms-transform: skewY(20deg);
+    transform: skewY(20deg);
+  }
+  
+  div.c {
+    width: 150px;
+    height: 80px;
+    background-color: yellow;
+    -ms-transform: scaleY(1.5);
+    transform: scaleY(1.5);
+  }

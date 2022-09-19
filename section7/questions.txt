@@ -1,0 +1,10 @@
+1. What is Carousel Bottstrap?
+2. What are Bottstrap Cards?
+3. What is the CSS Z-index used for?
+4. What is Media Query?
+5. What is Code Refactoring?
+6. What are Combining Selectors?
+7. What is selector priority?
+8. What is the CSS text-align used for?
+9. What is the CSS line-height used for?
+10. What is CSS transform used for?
