@@ -1,0 +1,11 @@
+p.Left {
+    text-align: left;
+}
+
+p.Center {
+    text-align: center;
+}
+
+p.Right {
+    text-align: right;
+}

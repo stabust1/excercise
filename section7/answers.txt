@@ -1,0 +1,30 @@
+1. The Carousel plugin is a component for cycling through elements, like a carousel (slideshow).
+
+2. A card is a flexible and extensible content container. It includes options for headers and footers, a wide variety of content, contextual background colors, and powerful display options. If you’re familiar with Bootstrap 3, cards replace our old panels, wells, and thumbnails. Similar functionality to those components is available as modifier classes for cards.
+
+3. The z-index property specifies the stack order of an element.
+An element with greater stack order is always in front of an element with a lower stack order.
+Note: z-index only works on positioned elements (position: absolute, position: relative, position: fixed, or position: sticky) and flex items (elements that are direct children of display:flex elements). If two positioned elements overlap without a z-index specified, the element positioned last in the HTML code will be shown on top. 
+
+4. Media Queries are a CSS technique. Allows rendering of content to adapt to conditions such as screen resolution
+With Media Queries, you can format the display of the web page so that it displays Responsive on many different browser sizes like the image at the beginning of the article. If the device is Desktop or higher, the minimum screen width @min-width must be 1024px | Tablet to stand, the minimum width is 768px and the highest is 1024px on Smartphone, the maximum is 767px, for example.
+When users view the web page with any screen device, it will automatically compare and give the corresponding web page format. For specific examples, you will see the section on using Media Queries to visualize.
+
+5. Code Refactoring is defined as the process of refactoring the source code without changing or affecting the built functionality.
+There are many ways to initiate a refactoring, but it usually involves applying a set of basic, standardized actions, sometimes referred to as microrefactoring. Changes in existing source code preserve the behavior and functionality of the software because the changes are so small they are unlikely to introduce or create any new bugs.
+
+6. Now that you're familiar with how to use selectors in CSS rule sets including type selectors (HTML element names), class selectors and id selectors, we can move on to learning about other kinds of 6. selectors to open up more complex and useful targetting possibilities.
+Here we'll introduce a couple of advanced methods of using CSS selectors here which will help you:
+Apply style declarations to selectors contained inside other selectors
+Apply the same style declarations to a group of selectors
+Both of the above involve using multiple selectors in the same rule sets which will —among other things— help you to economise your CSS and HTML coding.
+
+7. If there are two or more CSS rules that point to the same element, the selector with the highest specificity value will "win", and its style declaration will be applied to that HTML element.
+
+Think of specificity as a score/rank that determines which style declaration is ultimately applied to an element.
+
+8. The text-align property specifies the horizontal alignment of text in an element.
+
+9. The line-height property specifies the height of a line.
+
+10. The transform property applies a 2D or 3D transformation to an element. This property allows you to rotate, scale, move, skew, etc., elements.
