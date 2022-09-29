@@ -1,0 +1,10 @@
+1. What is JavaScript?
+2. What is Window alert() in JS used for?
+3. What are JavaScript Variables?
+4. What is Naming Convention in Javascript?
+5. What is the JavaScript String length used for?
+6. What are JavaScript slices used for?
+7. What is JavaScript Arithmetic?
+8. What are JavaScript Functions?
+9. What is JavaScript Output?
+10. What is JavaScript return?

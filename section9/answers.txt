@@ -1,0 +1,37 @@
+1. JAVASCRIPT is the Programming language that allows we to implement complex feature on web pages, in other words Javascript enable we to create dynamically updating content, control multimedia, images,.... or anything we need to want
+
+2. The alert() method displays an alert box with a message and an OK button.
+   The alert() method is used when you want information to come through to the user.
+
+3. Variables are containers for storing data (storing data values)
+A variable is a label that references a value like a number or string. Before using a variable, you need to declare it.
+
+4. In computer programming, a naming convention is a set of rules for choosing the character sequence to be used for identifiers that denote variables, types, functions, and other entities in source code and documentation
+
+5. The length property returns the length of a string.
+The length property of an empty string is 0.
+
+6. The slice() method returns a shallow copy of a portion of an array into a new array object selected from start to end (end not included) where start and end represent the index of items in that array. The original array will not be modified.
+
+7. Arithmetic operators perform arithmetic on numbers (literals or variables).
+Operator	Description
++	Addition
+-	Subtraction
+*	Multiplication
+**	Exponentiation (ES2016)
+/	Division
+%	Modulus (Remainder)
+++	Increment
+--	Decrement
+
+8. A JavaScript function is a block of code designed to perform a particular task.
+   A JavaScript function is executed when "something" invokes it (calls it).
+
+9. JavaScript can "display" data in different ways:
+
+Writing into an HTML element, using innerHTML.
+Writing into the HTML output using document.write().
+Writing into an alert box, using window.alert().
+Writing into the browser console, using console.log().
+
+10. The return statement ends function execution and specifies a value to be returned to the function caller.
