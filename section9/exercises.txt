@@ -1,0 +1,12 @@
+1. Explain what the JavaScript language is for
+2. create code using Window alert() JS.
+3. in js create 1 variable x , y , z . Assign values to x and y ,
+assign the sum of x and y to z and enter the result in p tag outside of HTML
+4. Create code that uses Naming Convention.
+5. create code using JavaScript String length
+6. create code using JavaScript slices
+7. Create code using JavaScript Arithmetic.
+8. Create a function
+9. Writing into an HTML element, using innerHTML
+  Writing into the browser console, using console.log().
+10. create a piece of code and use the return statement in JS
