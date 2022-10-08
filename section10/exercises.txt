@@ -1,0 +1,8 @@
+1. Create a code using Math.random() in Javascript
+2. Create a code using If-Else in Javascript
+3. Create a code using JS Arrays
+4. create a code using While Loop in Javascript
+5. create a code using For Loop in Javascript
+6. Create a code to calculate leap year in Javascript
+7. Create a code using Array push() in Javascript
+8. create a code with the Fibonacci Sequence

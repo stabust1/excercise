@@ -1,0 +1,8 @@
+1.Math.random() for what in JavaScript?
+2. What is If-Else used for in JavaScript?
+3. What is JS Arrays?
+4. What is JavaScrip While Loop?
+5. What is JavaScript For Loop?
+6. how to calculate leap year in JavaScript?
+7. What does Array push() do in JavaScript?
+8. What does the Fibonacci sequence do in JavaScript?

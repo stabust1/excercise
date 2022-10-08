@@ -1,0 +1,35 @@
+1. The Math.random() method returns a random number from 0 (inclusive) up to but not including 1 (exclusive).
+
+2. In JavaScript we have the following conditional statements:
+Use if to specify a block of code to be executed, if a specified condition is true
+Use else to specify a block of code to be executed, if the same condition is false
+Use else if to specify a new condition to test, if the first condition is false
+Use switch to specify many alternative blocks of code to be executed
+
+3.JavaScript array is an object that represents a collection of similar type of elements
+There are 3 ways to construct array in JavaScript
+1. By array literal
+2. By creating instance of Array directly (using new keyword)
+3. By using an Array constructor (using new keyword)
+
+4. The while loop loops through a block of code as long as a specified condition is true.
+The do while loop is a variant of the while loop. This loop will execute the code block once, before checking if the condition is true, then it will repeat the loop as long as the condition is true.
+
+5. Loops can execute a block of code a number of times.
+JavaScript supports different kinds of loops:
+for - loops through a block of code a number of times
+. for/in - loops through the properties of an object
+. for/of - loops through the values of an iterable object
+. while - loops through a block of code while a specified condition is true
+. do/while - also loops through a block of code while a specified condition is true
+
+6. A leap year is a year containing one additional day added to keep the calendar year synchronized with the astronomical or seasonal year. Because seasons and astronomical events do not repeat in a whole number of days, calendars that have the same number of days in each year drift over time with respect to the event that the year is supposed to track. By inserting an additional day or month into the year, the drift can be corrected. A year that is not a leap year is called a common year.
+Every year that is exactly divisible by four is a leap year, except for years that are exactly divisible by 100, but these centurial years are leap years if they are exactly divisible by 400. For example, the years 1700, 1800, and 1900 are not leap years, but the year 2000 is.
+
+7.
+Definition and Usage
+The push() method adds new items to the end of an array.
+The push() method changes the length of the array.
+The push() method returns the new length.
+
+8.Fibonacci series is a series that generates subsequent series of numbers by the addition of the two previous numbers. The first two terms of the Fibonacci series are zero and one, respectively. And the next terms are the addition of the two previous terms.
