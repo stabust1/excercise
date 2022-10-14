@@ -1,0 +1,61 @@
+1. We can add more external files js with tag element <script src="your js file"></script>
+
+2. With the object model, JavaScript gets all the power it needs to create dynamic HTML:
+JavaScript can change all the HTML elements in the page
+JavaScript can change all the HTML attributes in the page
+JavaScript can change all the CSS styles in the page
+JavaScript can remove existing HTML elements and attributes
+JavaScript can add new HTML elements and attributes
+JavaScript can react to all existing HTML events in the page
+JavaScript can create new HTML events in the page
+
+What is the DOM?
+The DOM defines a standard for accessing documents:
+
+The DOM standard is separated into 3 different parts:
+Core DOM - standard model for all document types
+XML DOM - standard model for XML documents
+HTML DOM - standard model for HTML documents
+
+What is the HTML DOM?
+The HTML DOM is a standard object model and programming interface for HTML. It defines:
+
+The HTML elements as objects
+The properties of all HTML elements
+The methods to access all HTML elements
+The events for all HTML elements
+In other words: The HTML DOM is a standard for how to get, change, add, or delete HTML elements.
+
+3. Definition and Usage
+The getElementsByTagName() method returns a collection of all elements with a specified tag name.
+The getElementsByTagName() method returns an HTMLCollection.
+The getElementsByTagName() property is read-only.
+
+4. Definition and Usage
+The getElementById() method returns an element with a specified value.
+The getElementById() method returns null if the element does not exist.
+The getElementById() method is one of the most common methods in the HTML DOM. It is used almost every time you want to read or edit an HTML element.
+
+5. Definition and Usage
+The querySelector() method returns the first element that matches a CSS selector.
+To return all matches (not only the first), use the querySelectorAll() instead.
+Both querySelector() and querySelectorAll() throw a SYNTAX_ERR exception if the selector(s) is invalid.
+
+6. Definition and Usage
+The querySelectorAll() method returns all elements that matches a CSS selector(s).
+The querySelectorAll() method returns a NodeList.
+The querySelectorAll() method throws a SYNTAX_ERR exception if the selector(s) is invalid
+
+7. The Style object represents an individual style statement.
+Access a Style Object
+The Style object can be accessed from the head section of the document, or from specific HTML element(s).
+Accessing style object(s) from the head section of the document
+
+8. The innerHTML property sets or returns the HTML content (inner HTML) of an element.
+The innerText property returns:
+This element has extra spacing and contains a span element.
+
+9. The getAttribute() method returns the value of an element's attribute.
+
+10. The classList property returns the CSS classnames of an element.
+The classList property returns a DOMTokenList.
