@@ -1,0 +1,10 @@
+1. How to add JavaScript to the website?
+2. JavaScript What is HTML DOM?
+3. What is the DOM Document getElementsByTagName() used for?
+4. What is the DOM Document getElementById() used for?
+5. What is the DOM Document querySelector() used for?
+6. What is the DOM Document querySelectorAll() used for?
+7. What is the DOM Style Object used for?
+8. What is the DOM Element innerHTML used for?
+9. What is the DOM Element getAttribute() used for?
+10. What is the DOM Element classList used for?

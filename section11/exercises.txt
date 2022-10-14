@@ -1,0 +1,10 @@
+1. Adding Javascript to Websites
+2. explain what is HTML DOM
+3. generate js code using DOM Document getElementsByTagName()
+4. generate js code with DOM Document getElementById()
+5. generate js code with Document querySelector()
+6. generate js code with DOM Document querySelectorAll()
+7. create js code with DOM Style Object
+8. create js code with DOM Element innerHTML
+9. generate js code with DOM Element getAttribute()
+10. generate js code with DOM Element classList
