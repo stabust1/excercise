@@ -1,0 +1,54 @@
+1. JavaScript can accept higher-order functions. This ability to handle higher-order functions, among other characteristics, makes JavaScript one of the programming languages well-suited for functional programming.
+
+You may have heard that JavaScript functions are first-class citizens. This means functions in JavaScript are objects.
+
+They have the type Object, they can be assigned as the value of a variable, and they can be passed and returned just like any other reference variable.
+
+First-class functions give JavaScript special powers and enable us to benefit from higher-order functions.
+
+Because functions are objects, JavaScript is one of the popular programming languages that supports a natural approach to functional programming.
+
+In fact, first-class functions are so native to JavaScript’s approach that I bet you’ve been using them without even thinking about it.
+
+2. JavaScript functions have a built-in object called the arguments object.
+The argument object contains an array of the arguments used when the function was called
+
+3. In JavaScript, the this keyword refers to an object.
+
+Which object depends on how this is being invoked (used or called).
+
+The this keyword refers to different objects depending on how it is used:
+
+In an object method, this refers to the object.
+Alone, this refers to the global object.
+In a function, this refers to the global object.
+In a function, in strict mode, this is undefined.
+In an event, this refers to the element that received the event.
+Methods like call(), apply(), and bind() can refer this to any object.
+
+4. The constructor method is a special method used to initialize an object and is created in the class.
+There is only one special method named "constructor" in the class. Having more than 1 constructor method in the class will cause a SyntaxError.
+
+A constructor can use the super keyword to call the constructor of the parent class.
+
+If you do not specify a constructor method, the default constructor will be used
+
+5. Use the switch statement to select one of many code blocks to be executed.
+The switch expression is evaluated once.
+The value of the expression is compared with the values of each case.
+If there is a match, the associated block of code is executed.
+If there is no match, the default code block is executed.
+
+6. The call() method is a predefined JavaScript method.
+
+It can be used to invoke (call) a method with an owner object as an argument (parameter).
+
+7. Using a callback, you could call the calculator function (myCalculator) with a callback (myCallback), and let the calculator function run the callback after the calculation is finished
+
+8. JavaScript animations can handle things that CSS can’t.
+
+For instance, moving along a complex path, with a timing function different from Bezier curves, or an animation on a canvas.
+
+9. Dot notation is one way to access a property of an object. To use dot notation, write the name of the object, followed by a dot (.), followed by the name of the property.
+
+10. addEventListener is a method built into HTML objects through the DOM mechanism. Using addEventListener you can add multiple actions to the event at different times.

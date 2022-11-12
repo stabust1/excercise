@@ -1,0 +1,10 @@
+1. sử dụng Higher-Order Functions trong JavaScript
+2. sử dụng passing function as arguments trong JS
+3. sử dụng this Object trong JS
+4. sử dụng Object Constructors trong JS
+5. sử dụng Switch Statement trong JS
+6. sử dụng Object call() Methods trong JS
+7. sử dụng Callbacks trong JS
+8. sử dụng JavaScript animations trong JS
+9. sử dụng JavaScript animations trong JS
+10. sử dụng HTML DOM Document addEventListener() trong JS
