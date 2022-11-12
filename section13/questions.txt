@@ -1,0 +1,10 @@
+1. What is Higher-Order Functions in JavaScript?
+2. What is passing function as arguments in JS?
+3. What is this Object?
+4. What is Object Constructors?
+5. What is Switch Statement in JS? 
+6. What is Object call() Methods in JS?
+7. WHat is Callbacks in JS?
+8. What is JavaScript animations?
+9. Object Dot Notation?
+10. What is the HTML DOM Document addEventListener() used for?
