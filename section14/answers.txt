@@ -1,0 +1,51 @@
+1. jQuery is a lightweight, "write less, do more", JavaScript library.
+
+The purpose of jQuery is to make it much easier to use JavaScript on your website.
+
+jQuery takes a lot of common tasks that require many lines of JavaScript code to accomplish, and wraps them into methods that you can call with a single line of code.
+
+jQuery also simplifies a lot of the complicated things from JavaScript, like AJAX calls and DOM manipulation.
+
+The jQuery library contains the following features:
+
+HTML/DOM manipulation
+CSS manipulation
+HTML event methods
+Effects and animations
+AJAX
+Utilities
+
+2. AJAX = Asynchronous JavaScript and XML.
+
+In short; AJAX is about loading data in the background and display it on the webpage, without reloading the whole page.
+
+Examples of applications using AJAX: Gmail, Google Maps, Youtube, and Facebook tabs.
+
+3. jQuery selectors allow you to select and manipulate HTML element(s).
+
+jQuery selectors are used to "find" (or select) HTML elements based on their name, id, classes, types, attributes, values of attributes and much more. It's based on the existing CSS Selectors, and in addition, it has some own custom selectors.
+
+All selectors in jQuery start with the dollar sign and parentheses: $().
+
+4. The css() method sets or returns one or more style properties for the selected elements.
+
+5. The text() method sets or returns the text content of the selected elements.
+
+When this method is used to return content, it returns the text content of all matched elements (HTML markup will be removed).
+
+When this method is used to set content, it overwrites the content of ALL matched elements.
+
+Tip: To set or return the innerHTML (text + HTML markup) of the selected elements, use the html() method.
+
+6. The jQuery attr() method is used to get attribute values.
+
+7. JavaScript provides the EventTarget interface’s built-in addEventListener() method. This method configures a function to be called each time the specified event is sent to the target.
+
+jQuery provides an equivalent method called .on(). Similar to the addEventListener method of JavaScript, the .on method attaches an event handler function to the selected elements for one or more events.
+
+8. The jQuery animate() method is used to create custom animations.
+The required params parameter defines the CSS properties to be animated.
+
+The optional speed parameter specifies the duration of the effect. It can take the following values: "slow", "fast", or milliseconds.
+
+The optional callback parameter is a function to be executed after the animation completes.

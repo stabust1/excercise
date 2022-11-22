@@ -1,0 +1,8 @@
+1. What is Jquery?
+2. What is jQuery AJAX?
+3. What are jQuery Selectors used for?
+4. What are jQuery css used for?
+5. What are jQuery text used for?
+6. What are JQuery Attributes used for?
+7. What is jQuery Event listener?
+8. What is jQuery Animation?
