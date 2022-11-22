@@ -1,0 +1,8 @@
+1. Tell me what is Jquery
+2. Explain what AJAX Jquery is for
+3. practice with jQuery Selectors
+4. practice with jQuery css
+5. practice with jQuery text
+6. Practice with JQuery Attributes
+7. practice with jQuery Event listener
+8. practice with jQuery Animation
