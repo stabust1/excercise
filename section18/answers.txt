@@ -1,0 +1,27 @@
+1. Node.js is an open source server environment
+Node.js is free
+Node.js runs on various platforms (Windows, Linux, Unix, Mac OS X, etc.)
+Node.js uses JavaScript on the server
+node.js can generate dynamic page content, can create, open, read, write, delete and close files on the server, can collect form data, can add, delete, modify data in the database your database
+
+2. pwd command
+Use the pwd command to find the path of your current working directory. Simply entering pwd will return the full current path – a path of all the directories that starts with a forward slash (/). For example, /home/username.
+
+The pwd command uses the following syntax:
+
+pwd
+It has two acceptable options:
+-L or –logical prints environment variable content, including symbolic links.
+-P or –physical prints the actual path of the current directory.
+
+3. is one of the most important and popular commands. With the help of this command we can move all the folders in our system. We can go to the previous folder or before the next folder or anywhere.
+
+4. The ls is the list command. It will show the full list or content of your directory. Just type ls and press the enter key. The whole content will be shown.
+
+5. The mkdir stands for 'make directory'. With the help of mkdir command, you can create a new directory wherever you want in your system. Just type "mkdir <dir name> , in place of <dir name> type the name of new directory, you want to create and then press enter.
+
+6. touch command is a way to create empty files (there are some other mehtods also). You can update the modification and access time of each file with the help of touch command.
+
+7. First we must have a js file. People put the folder containing that file and use the node command "myfile.js"
+
+8.Simply put, NodeJS Module is a Javascript library, it is a collection of function objects and variables, that you can include in your application to use. Using Modules makes it simple to code, and manage the code in your application. Usually each module will be written in a separate file.

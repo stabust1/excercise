@@ -1,0 +1,7 @@
+1. practice nodejs with pwd command
+2. practice nodejs with cd command
+3. practice nodejs with ls command
+4. practice nodejs with mkdir command
+5. practice nodejs with touch command
+6. create a js file and write code to print "Hello world", and run it in NodeJs
+7. please explain what are Node.js Modules
