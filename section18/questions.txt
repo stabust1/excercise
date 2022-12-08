@@ -1,0 +1,8 @@
+1. What is NodeJS?
+2. What is the pwd command?
+3. What is the cd command?
+4. What is the ls command?
+5. What is the mkdir commnand?
+6. What is the touch command?
+7. What should I do if I want to run js files in nodejs?
+8. What is a Module in Node.js?
