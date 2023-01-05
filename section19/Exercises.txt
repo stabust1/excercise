@@ -1,0 +1,8 @@
+1. install express and practice with express
+2. practice npm with nodejs
+3. practice nodemon in nodejs
+4. create your first server with wxpress
+5. practice response in express
+6. practice request in express
+7. practice routes in express
+8. practice res.sendFile in express
