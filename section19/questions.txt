@@ -1,8 +1,0 @@
-1. What is express?
-2. What is npm in nodejs?
-3. What is nodemon in nodejs?
-4. how to create first server with express?
-5. What is Response in express?
-6. What is request in exprees?
-7. What is routes express?
-8. What is res.sendFile in express?
