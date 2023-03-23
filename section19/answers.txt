@@ -1,0 +1,40 @@
+1. Express is a small framework that sits on top of Node.js’s web server functionality to simplify its APIs and add helpful new features. It makes it easier to organize your application’s functionality with middle ware and routing. It adds helpful utilities to Node.js’s HTTP objects. It facilitates the rendering of dynamic HTTP objects.
+Install Express
+npm install express --save
+After the installation is complete, there will be an additional node_modules folder in your project directory - this is the folder containing the packages downloaded from npm.
+
+2. NPM is a package manager for Node.js packages, or modules if you like.
+The NPM program is installed on your computer when you install Node.js
+
+3. First you create yourself a file named server.js located locally as follows:
+	-node_modules/
+	-server.js
+The file server.js has the following content:
+	//require express
+	var express = require('express');
+	//express initialization
+	var app = express();
+	// create action for url /
+	app.get('/', function (req, res) {
+   	 res.send('hello world!');
+});
+	//port 8000 for server
+	app.listen(3000);
+
+4. nodemon is a tool that helps develop Node.js based applications by automatically restarting the node application when file changes in the directory are detected.
+nodemon does not require any additional changes to your code or method of development. nodemon is a replacement wrapper for node. To use nodemon, replace the word node on the command line when executing your script.
+install nodemon for the project via command npm install --save-dev nodemon
+
+5. The Response object in Express, often abbreviated as res, gives you a simple way to respond to HTTP requests. In this article, I will cover the most important parts of the response object in Node.js
+
+6. The Request Object in Express.js allows you to inspect every aspect of the request that the user (client) sends to the server (whether by browser, by cURL or mobile browser, etc.). The request object includes a lot of things like url, method, form data, header, etc. When you initialize a route when the user (client) accesses it, the user has sent the Express application a Request
+
+7. Routes direct incoming API requests to backend resources. Routes consist of two parts: an HTTP method and a resource path—for example, GET /pets. You can define specific HTTP methods for your route. Or, you can use the ANY method to match all methods that you haven't defined for a resource. You can create a $default route that acts as a catch-all for requests that don’t match any other routes
+
+8. You receive a response from a given request. You can combine multiple things into one response, or have the client make separate requests to get separate things.
+
+If what you are trying to do is take an HTML file and modify it by inserting some JSON in it, then you cannot use just res.sendFile() because it only reads a file from disk or cache and pass it directly as a response, providing no chance to modify it.
+
+The more common way to do this is to use a template system that allows you to insert everything into an HTML file (usually replacing special tags with your own data). There are literally hundreds of sample systems and many that support node.js. Popular choices for node.js are Jade (Pug), Handlebars, Ember, Dust, EJS, Mustache.
+
+Or, if you really wanted to do so, you could read the HTML file into memory, use a .replace() operation on it to insert your own data, and then res.send() the result. is the changed file.
