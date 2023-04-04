@@ -1,0 +1,13 @@
+{
+    "name": "Toan",
+    "age": 23,
+    "city": "Ho Chi Minh",
+    "cars": [
+        { "make": "Toyota", "model": "Camry" },
+        { "make": "Honda", "model": "Accord" },
+        { "make": "Ford", "model": "Mustang" }
+    ]
+}
+
+//In this example, we have a JSON object representing a person's information and a list of cars he owns. 
+//The cars property is an array of car objects, each containing two properties, make and model.

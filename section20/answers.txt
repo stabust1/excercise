@@ -1,0 +1,41 @@
+1.
+- API stands for Application Programming Interface. An API is a set of protocols, routines, and tools that specify how software components should interact with each other. In simple terms, an API is a set of rules that allows one software application to communicate with another.
+
+- APIs are commonly used in web development, where they enable different applications to exchange data and services. For example, an e-commerce website may use an API to retrieve product information from a manufacturer's database, or a weather app may use an API to get current weather data from a weather service.
+
+- APIs can be accessed through code, allowing developers to create applications that integrate with other services or data sources. APIs are commonly used in web development, mobile app development, and other software development projects.
+
+2. APIs are needed to bring applications together in order to perform a designed function built around sharing data and executing pre-defined processes. They work as the middle man, allowing developers to build new programmatic interactions between the various applications people and businesses use on a daily basis.
+
+3.
+An API endpoint is a point at which an API -- the code that allows two software programs to communicate with each other -- connects with the software program. APIs work by sending requests for information from a web application or web server and receiving a response.
+
+4.
+API parameters are the variable parts of a resource. They determine the type of action you want to take on the resource. Each parameter has a name, value type ad optional description. Whenever you want to build a REST API, you have to decide which parameters should be present in the API endpoint.
+
+5. 
+API authentication is a combination of technology and process that proves or verifies the identities of users who want access to an API. Specifically, API authentication involves the use of a software protocol to verify that users are who they claim to be when a client makes an API call.
+
+6. 
+The Postman API endpoints enable you to integrate Postman within your development toolchain. You can add new collections, update existing collections, update environments, and add and run monitors directly through the API. This enables you to programmatically access data stored in your Postman account.
+
+7.
+JSON stands for JavaScript Object Notation. It is a lightweight data interchange format that is easy for humans to read and write, and easy for machines to parse and generate.
+
+JSON is widely used in web development and other applications where data needs to be exchanged between different systems. It is based on a subset of the JavaScript programming language, but it is language-independent, which means it can be used with any programming language that has support for JSON parsing and generation.
+
+In JSON, data is represented as a collection of key-value pairs, similar to a dictionary or a hash table. Each key is a string that represents the name of the data element, and each value can be a string, number, boolean, null, array, or another JSON object.
+
+JSON has become a popular format for APIs, as it provides a standardized way to exchange data between different systems. Many modern web APIs use JSON as their default format for sending and receiving data.
+
+8.
+The JSON.parse() static method parses a JSON string, constructing the JavaScript value or object described by the string. An optional reviver function can be provided to perform a transformation on the resulting object before it is returned
+
+9.
+Mailchimp APIs are a set of application programming interfaces (APIs) provided by Mailchimp - a leading email marketing platform.
+
+These APIs allow developers to create third-party applications, integrate Mailchimp features into their applications, or create custom features for Mailchimp.
+
+Mailchimp APIs provide programming interfaces for functions such as managing customer lists, sending emails, creating and managing email campaigns, viewing statistics and many more. The APIs are provided as RESTful APIs, allowing developers to interact with Mailchimp with simple HTTP requests.
+
+10. 

@@ -1,0 +1,10 @@
+1. What is APIs?
+2 Why do we need apis?
+3. What is API endpoints?
+4. WHat is API parameters?
+5. What is API Authentication?
+6. What is API Postman?
+7. What is JSON?
+8. What is JSON.parse()?
+9. What is mailchimp API?
+10. What is the mailchimp API for?

@@ -1,0 +1,8 @@
+1. Please explain what the API is for
+2. explain why we need API
+3. What are API endpoints for
+4. What are API parameters for
+5. What are API Authentication for
+6. What are API Postman for
+7. What are mailchimp API for
+8. let's do an exercise with JSON
